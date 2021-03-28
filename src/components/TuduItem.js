@@ -48,6 +48,7 @@ const Button = styled.button`
     color:#100f10;
     outline: none;
     border: none;
+    padding: 3px;
     border-radius: 3px;
 `;
 
