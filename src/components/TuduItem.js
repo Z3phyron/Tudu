@@ -43,11 +43,12 @@ const Item = styled.div`
 
 const Button = styled.button`
     font-size: 10pt;
-    margin-left: 5px;
+    margin-left: 15px;
     background: #2ca0d2;
     color:#100f10;
     outline: none;
     border: none;
+    border-radius: 3px;
 `;
 
 
